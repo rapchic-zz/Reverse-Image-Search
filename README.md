@@ -36,6 +36,7 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 * Provision the notebook on newly created Environment
 [![ Notebook on Environment](https://img.youtube.com/vi/V3mPYws12wY/0.jpg)](https://www.youtube.com/watch?v=V3mPYws12wY)
 * Run the project
+
 [![Running the project on a CPU](https://img.youtube.com/vi/UJouMcQog1E/0.jpg)](https://www.youtube.com/watch?v=UJouMcQog1E/)
 * Stop the Environment Post usage
 
