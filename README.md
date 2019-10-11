@@ -28,28 +28,29 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 > Note: When creating your Object Storage service, select the ``Free`` storage type in order to avoid having to pay an upgrade fee.
 
 * Create a new Project in Watson Studio (New --> Standard project)
-![Creating a project](./res/createProject.gif)
+[![Create a new project](https://img.youtube.com/vi/unyZ8SAhuPQ/0.jpg)](https://www.youtube.com/watch?v=unyZ8SAhuPQ)
+* Create an new Notebook (Add to project --> Notebook --> from url) 
+![Creating a Notebook](https://img.youtube.com/vi/r6GOhFYW3t4/0.jpg)](https://www.youtube.com/watch?v=r6GOhFYW3t4)
 * Create an Environment (Environment --> New Environment -->)
-![Creating Environment](./res/createEnv.gif)
-* Create a new Notebook (Add to project --> Notebook --> from url)
+![Creating an Environment](https://img.youtube.com/vi/2ZhkXhhKhmI/0.jpg)](https://www.youtube.com/watch?v=2ZhkXhhKhmI)
 * Provision the notebook on newly created Environment
-![ Notebook](./res/createNotebook.gif)
+![ Notebook on Environment](https://img.youtube.com/vi/V3mPYws12wY/0.jpg)](https://www.youtube.com/watch?v=V3mPYws12wY)
+* Run the project
+! [Running the project on a CPU](https://img.youtube.com/vi/UJouMcQog1E//0.jpg)](https://www.youtube.com/watch?v=UJouMcQog1E/)
 * Stop the Environment Post usage
-
-![Stop environment](./res/stopEnv.gif)
 
 
 # Run Locally:
 * Clone the repository
 
 ```
-git clone https://github.com/krishnac7/Reverse_image_search.git
+git clone https://github.com/rapchic/Reverse-Image-Search.git
 ```
 
 * Navigate into the directory
 
 ```
-cd Reverse_image_search-master
+cd Reverse-Image-Search-master
 ```
 
 * Run using Jupyter notebooks
