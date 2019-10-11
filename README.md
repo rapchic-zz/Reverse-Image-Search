@@ -61,7 +61,7 @@ jupyter notebook
 
 # Sample Output:
 
-![sample output](./res/sample1.png)
+![sample output](./Output.png)
 <!-- keep this -->
 ## License
 
