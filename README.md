@@ -30,13 +30,13 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 * Create a new Project in Watson Studio (New --> Standard project)
 [![Create a new project](https://img.youtube.com/vi/unyZ8SAhuPQ/0.jpg)](https://www.youtube.com/watch?v=unyZ8SAhuPQ)
 * Create an new Notebook (Add to project --> Notebook --> from url) 
-![Creating a Notebook](https://img.youtube.com/vi/r6GOhFYW3t4/0.jpg)](https://www.youtube.com/watch?v=r6GOhFYW3t4)
+[![Creating a Notebook](https://img.youtube.com/vi/r6GOhFYW3t4/0.jpg)](https://www.youtube.com/watch?v=r6GOhFYW3t4)
 * Create an Environment (Environment --> New Environment -->)
-![Creating an Environment](https://img.youtube.com/vi/2ZhkXhhKhmI/0.jpg)](https://www.youtube.com/watch?v=2ZhkXhhKhmI)
+[![Creating an Environment](https://img.youtube.com/vi/2ZhkXhhKhmI/0.jpg)](https://www.youtube.com/watch?v=2ZhkXhhKhmI)
 * Provision the notebook on newly created Environment
-![ Notebook on Environment](https://img.youtube.com/vi/V3mPYws12wY/0.jpg)](https://www.youtube.com/watch?v=V3mPYws12wY)
+[![ Notebook on Environment](https://img.youtube.com/vi/V3mPYws12wY/0.jpg)](https://www.youtube.com/watch?v=V3mPYws12wY)
 * Run the project
-! [Running the project on a CPU](https://img.youtube.com/vi/UJouMcQog1E//0.jpg)](https://www.youtube.com/watch?v=UJouMcQog1E/)
+[![Running the project on a CPU](https://img.youtube.com/vi/UJouMcQog1E//0.jpg)](https://www.youtube.com/watch?v=UJouMcQog1E/)
 * Stop the Environment Post usage
 
 
