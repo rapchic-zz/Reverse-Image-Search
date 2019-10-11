@@ -29,10 +29,10 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 
 * Create a new Project in Watson Studio (New --> Standard project)
 ![Creating a project](./res/createProject.gif)
-* Create an Environment (Environment --> New Environment --> GPU Beta)
+* Create an Environment (Environment --> New Environment -->)
 ![Creating Environment](./res/createEnv.gif)
 * Create a new Notebook (Add to project --> Notebook --> from url)
-* Provision the notebook on newly created GPU Environment
+* Provision the notebook on newly created Environment
 ![ Notebook](./res/createNotebook.gif)
 * Stop the Environment Post usage
 
